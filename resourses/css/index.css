@@ -1,0 +1,159 @@
+.header{
+    font-family: Verdana;
+  font-size: 14px;
+  font-weight: bold;
+   display: flex;
+    
+}
+.nav{
+    display: inline-block;
+    margin: 40px 20px;
+}
+
+
+
+.logo {
+    color: mediumaquamarine;
+    
+    border: solid black;
+    justify-content: flex-start;
+    align-items: center;
+    display: flex;
+    padding-right: 800px;
+    padding-bottom: 10px;
+}
+
+.container{
+    
+    display: flex;
+    padding-top: 50px;}
+
+    .column large{
+    width: 630px;
+    display: block;
+   
+}
+   
+
+.ez{
+    display: block;
+    margin-right: 50px;
+}
+
+.orca{
+     
+    margin-right: 30px;
+    display: inline-flex;
+}
+#earth{
+    
+    background-image: url(https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-4/img-story-2.png);
+    background-size: contain;
+    font-weight: bold;
+  font-size: 30px;
+  color: white;
+    text-align: center;
+    height: 220px;
+    width: 250px;
+    margin-right: 10px;
+}
+.col{
+    display: inline-flex;
+}
+
+.column middle{
+    
+    width: 300px;
+    display: block;
+    padding: 10px;
+}
+.fbi{
+    
+    margin-left: 20px;
+}
+.br{
+   
+}
+.column small{
+    width: 240px;
+    
+    display: block;
+    padding: 10px;
+    flex-direction: column;
+}
+.news{
+    margin-left: 20px;
+}
+.image{
+    background-image: url(https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-4/img-story-main.png);
+    font-family: Georgia;
+  font-weight: bold;
+  font-size: 30px;
+  color: white;
+    margin-right: 20px;
+    height: 300px;
+    background-size: cover;
+}
+p{
+    font-family: Georgia;
+  font-size: 17px;
+  color: black;
+}
+.spins{
+    
+   display: block;
+}
+.hipster{
+    background-image: url(https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-4/img-story-3.png);
+    font-weight: bold;
+  font-size: 30px;
+  color: white;
+ height: 300px;
+    width: 300px;
+}
+.cat{
+    background-image: url(https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-4/img-story-1.png);
+    font-weight: bold;
+  font-size: 30px;
+  color: white;
+     height: 300px;
+  width: 400px;
+    background-size: cover;
+    text-align: center;
+}
+.bites{
+    font-size: 16px;
+  font-weight: bold;
+    background-color: WhiteSmoke;
+  font-family: Verdana;
+  font-size: 12px;
+  color: DimGray;
+}
+.footer{
+    display: flex ;
+    background-color: MediumAquamarine;
+  margin: auto;
+  font-family: Verdana;
+  font-size: 12px;
+    height: 400px;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.my{
+    font-family: Georgia;
+  font-size: 16px;
+  font-weight: bold;
+  color: white;
+}
+.line{
+    display: inline-flex;
+    margin: 40px 20px;
+    justify-content: space-between;
+    margin: 40px 20px;
+  
+    
+}
+.finally{
+    display: inline-flex;
+}
